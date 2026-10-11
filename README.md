@@ -50,3 +50,5 @@ Scope
 Schema excerpts are representative versions of the production design:
 column names and sets are simplified, and the ingestion pipeline, proxy
 caching layer, and admin tooling are not included.
+
+Built by Bryan Hamilton
